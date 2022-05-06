@@ -19,4 +19,4 @@ There are 10128 records of customer in the data with 21 attributes with no null 
 
 The objective of this project is to predict the retention label for the customer record. In the Attrition column, there are two class labels; ‘0’ indicates that the customer is currently using the service and ‘1’ indicates that customer has already stopped using the bank service. Using the attributes as mentioned above in the data description table, the class labels for output ‘Y’ is predicted. The goal of the project is to train four different classification models by finding out the best fit and compare the performances using several evaluation metrics.
 
-##** please refer to attatched ipynb file and Report pdf for a detailed view of experimentation and results **
+# ** please refer to attatched ipynb file and Report pdf for a detailed view of experimentation and results **
