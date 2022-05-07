@@ -10,11 +10,10 @@ This project analyzes the data and predicts whether a client will retain or not 
 
 # **2.0	Data description**
 
-The dataset for this project was downloaded from Kaggle datasets website. Link for the data is provided below:
+The dataset for this project is sourced from Kaggle website. Link for the data is provided below:
 https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers?taskId=2729 
 
-There are 10128 records of customer in the data with 21 attributes with no null values in any record. Below image shows the cover description of the data.
-The Project is performed by utilizing a dataset of bank customer data. The dataset contains information on 10128 customers with 21 attributes with no null values in any record, they are divided into two groups: those who exit (represented by 1 in the target variable) and those who did not leave (represented by 0 in the target variable). The dataset includes 1627 clients who left the bank services, with the remainder remaining. Individual client data include annual income, marital status, gender, age, utilization period, opening balance, number of dependents, values indicating if the customer has a credit card and card category, values indicating whether the customer is an active member, and fnally the customer’s credit balance.
+The dataset contains information on 10128 customers with 21 attributes with no null values in any record, they are divided into two groups: those who exit (represented by 1 in the target variable) and those who did not leave (represented by 0 in the target variable). The dataset includes 1627 clients who left the bank services, with the remainder remaining. Individual client data include annual income, marital status, gender, age, utilization period, opening balance, number of dependents, values indicating if the customer has a credit card and card category, values indicating whether the customer is an active member, and fnally the customer’s credit balance.
 
 # **3.0	Task description**
 
